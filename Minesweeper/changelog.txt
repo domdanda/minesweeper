@@ -1,0 +1,29 @@
+-=[ CHANGELOG ]=-
+
+Sat Jan 22nd:
+  - Created preliminary classes
+  - Created GUI Containers
+  - Created Tile Icon
+  - Related all of the game elements to work at any size
+
+Sun Jan 23rd:
+  - Created a tile array and displayed it in the game container
+  - Made the tiles removable
+  - Created the iconic smiley button
+
+Mon Jan 24th:
+  - Changed the tile array to be defined with the existing tile objects
+  - Added Mine Icon
+  - Difficulties with mine array being full of null
+
+Wed Jan 26th:
+  - Fixed mouse detection on the smiley button, making it functional
+  - Made the smiley button surprised when the mouse is pressed
+
+Thu Jan 27th:
+  - Fixed the mine array by imitating the tile array with the function isActive changed
+  - Made the game phase trigger when a mine is clicked
+  - Made mines appear above tiles in the "lost" game phase
+
+Fri Jan 28th:
+  - Added game numbers
